@@ -1,0 +1,19 @@
+Experiment with depth (number of layers)
+
+model 1:
+Build a model with SDG optimizer, Train it 
+Find the validation accuracy(128)
+
+model 2:
+Build a model with adam optimizer,train it
+and find the validation accuracy
+
+model 3:
+Build a model with 5 RMSProp optimizer and 
+find the validation accuracy
+
+plot validation accuracy for all three models in single plot. 
+
+plot the loss for all three models
+
+NOTE use differet model name for each of the model.
