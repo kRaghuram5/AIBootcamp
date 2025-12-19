@@ -16,4 +16,6 @@ plot validation accuracy for all three models in single plot.
 
 plot the loss for all three models
 
-NOTE use differet model name for each of the model.
+NOTE use differet model name for each of the respective model.
+
+and do all of this for all the models 
