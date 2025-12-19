@@ -14,7 +14,7 @@ find the validation accuracy
 
 plot validation accuracy for all three models in single plot. 
 
-plot the loss for all three models
+plot the graph for all three models on their loss
 
 NOTE use differet model name for each of the respective model.
 
